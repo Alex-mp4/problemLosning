@@ -10,7 +10,7 @@ public class reverseString {
         System.out.println(t);
     }
 
-    private static String reverse2(String s) {
+    public static String reverse2(String s) {
         return reverse(s);
     }
 
